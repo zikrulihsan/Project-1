@@ -131,7 +131,6 @@ li{
   opacity:0.7;
   box-shadow: 5px 6px grey;
   padding-bottom:20px;
- 
   border-radius: 40px ;
 }
 
@@ -146,11 +145,13 @@ input,textarea{
   margin-bottom: 10px;
   opacity:1;
 }
+
 .top-wrapper p {
   padding-bottom:5px;
   letter-spacing: 3px;
   margin-bottom: 3px;
 }
+
 .header-left a:hover{
   text-decoration: none;
  color:#53c96f;
@@ -161,6 +162,7 @@ input,textarea{
   text-align: center;
   margin: 20px 0;
 }
+
 .green{
   font-size: 50px;
   color:#53c96f;
@@ -197,6 +199,7 @@ input,textarea{
 .fa {
   margin-right: 5px;
 }
+
 footer a{
   color:white;
 }
@@ -205,18 +208,19 @@ footer a:hover{
   text-decoration:none;
   color:white;
 }
+
 .extra{
   font-size:70px;
   text-align:right;
 
 }
+
 header {
 
   height: 80px;
   width: 100%;
   background-color:  rgba(247, 247, 247, 0.37);
   position :fixed;
-  top: ;
   z-index: 10;
   
 }
@@ -229,11 +233,10 @@ header {
   color:#53c96f;
 }
 
-
-
 .pd-t-30{
   padding-top:30px;
 }
+
 .header-left {
   float: left;
   padding-top:20px;
